@@ -1,0 +1,49 @@
+/* General Styles */
+body {
+  font-family: Arial, sans-serif;
+  line-height: 1.6;
+  margin: 0;
+  padding: 0;
+  background: #f4f4f4;
+  color: #333;
+}
+
+header {
+  background: #0077cc;
+  color: white;
+  text-align: center;
+  padding: 20px;
+}
+
+main {
+  padding: 20px;
+}
+
+section {
+  background: #fff;
+  margin: 20px 0;
+  padding: 15px;
+  border-radius: 10px;
+  border: 2px solid #ccc;
+}
+
+/* Button Styling */
+button {
+  background: #0077cc;
+  color: white;
+  border: none;
+  padding: 10px 15px;
+  margin-top: 10px;
+  cursor: pointer;
+  border-radius: 5px;
+}
+
+button:hover {
+  background: #005fa3;
+}
+
+/* Toggle Effect */
+.highlight {
+  background-color: yellow;
+  font-weight: bold;
+}
